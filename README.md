@@ -1,2 +1,2 @@
-# JuegoGameMaker
-Juego creado para la fundación Fdwaal para promocionar su campaña ABCD
+# proyectoUisrael
+Programa sin base de datos y con juego realizado en game maker 
